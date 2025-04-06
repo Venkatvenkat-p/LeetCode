@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0048-rotate-image) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
+| [2058-concatenation-of-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
