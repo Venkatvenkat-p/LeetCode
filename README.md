@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
