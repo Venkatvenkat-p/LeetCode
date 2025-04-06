@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0070-climbing-stairs) |
+| [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
