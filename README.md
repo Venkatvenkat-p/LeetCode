@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0231-power-of-two) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0861-flipping-an-image) |
 ## Array
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
