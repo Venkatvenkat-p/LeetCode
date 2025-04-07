@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
 | [1894-merge-strings-alternately](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
