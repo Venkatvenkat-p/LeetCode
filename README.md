@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
