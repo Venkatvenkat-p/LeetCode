@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3312-number-of-changing-keys](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3312-number-of-changing-keys) |
 ## Bit Manipulation
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
