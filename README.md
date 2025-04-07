@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
