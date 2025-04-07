@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0069-sqrtx) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
