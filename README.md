@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0217-contains-duplicate) |
 | [0861-flipping-an-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
