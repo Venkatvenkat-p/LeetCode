@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
