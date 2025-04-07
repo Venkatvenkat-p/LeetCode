@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
