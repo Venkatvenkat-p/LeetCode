@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0861-flipping-an-image) |
 | [2427-first-letter-to-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
