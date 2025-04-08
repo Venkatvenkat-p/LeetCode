@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0645-set-mismatch) |
+| [1044-find-common-characters](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
+| [1044-find-common-characters](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1044-find-common-characters) |
 | [1894-merge-strings-alternately](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1044-find-common-characters](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1044-find-common-characters) |
 | [1293-three-consecutive-odds](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
