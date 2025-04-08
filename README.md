@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0342-power-of-four) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0415-add-strings) |
 | [1044-find-common-characters](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1044-find-common-characters) |
 | [1894-merge-strings-alternately](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1894-merge-strings-alternately) |
