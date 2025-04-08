@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1044-find-common-characters) |
 | [1894-merge-strings-alternately](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
