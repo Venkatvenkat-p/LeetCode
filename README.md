@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
+| [0978-valid-mountain-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1044-find-common-characters) |
 | [1293-three-consecutive-odds](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1293-three-consecutive-odds) |
