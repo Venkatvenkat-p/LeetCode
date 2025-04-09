@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0415-add-strings) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
