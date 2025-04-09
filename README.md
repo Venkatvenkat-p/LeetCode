@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0415-add-strings) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -249,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
