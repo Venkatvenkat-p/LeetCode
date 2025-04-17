@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0415-add-strings) |
+| [1086-divisor-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1086-divisor-game) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0070-climbing-stairs) |
+| [1086-divisor-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -290,10 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1086-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
