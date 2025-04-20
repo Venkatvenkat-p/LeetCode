@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2857-total-distance-traveled](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2857-total-distance-traveled) |
 | [2998-count-symmetric-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2825-minimize-string-length](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2825-minimize-string-length) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2857-total-distance-traveled](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2857-total-distance-traveled) |
 ## Divide and Conquer
 |  |
