@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2857-total-distance-traveled) |
 | [2998-count-symmetric-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
