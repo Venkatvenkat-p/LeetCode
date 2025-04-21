@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0645-set-mismatch) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0415-add-strings) |
 | [1044-find-common-characters](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1044-find-common-characters) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
