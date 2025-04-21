@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2825-minimize-string-length) |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3312-number-of-changing-keys](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3312-number-of-changing-keys) |
+| [3468-find-the-encrypted-string](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Bit Manipulation
 |  |
 | ------- |
