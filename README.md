@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0342-power-of-four) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0898-transpose-matrix) |
@@ -322,5 +324,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
