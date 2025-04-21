@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0507-perfect-number) |
 | [1086-divisor-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1086-divisor-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
