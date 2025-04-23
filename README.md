@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2083-three-divisors](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -330,5 +332,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
