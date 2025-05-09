@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2756-buy-two-chocolates](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2756-buy-two-chocolates](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0045-jump-game-ii) |
 | [1448-maximum-69-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1448-maximum-69-number) |
+| [2756-buy-two-chocolates](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Recursion
 |  |
