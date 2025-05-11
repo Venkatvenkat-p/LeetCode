@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3625-stone-removal-game) |
 | [3830-find-closest-person](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3830-find-closest-person) |
 ## Hash Table
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2857-total-distance-traveled](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2857-total-distance-traveled) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3625-stone-removal-game) |
 ## Divide and Conquer
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
