@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2825-minimize-string-length) |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3312-number-of-changing-keys](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3468-find-the-encrypted-string](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Bit Manipulation
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2756-buy-two-chocolates](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1086-divisor-game) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1448-maximum-69-number) |
 | [2756-buy-two-chocolates](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
