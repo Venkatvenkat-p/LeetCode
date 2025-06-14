@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2825-minimize-string-length) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3312-number-of-changing-keys](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3468-find-the-encrypted-string](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3468-find-the-encrypted-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
