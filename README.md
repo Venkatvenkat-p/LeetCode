@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3312-number-of-changing-keys](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3312-number-of-changing-keys) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3468-find-the-encrypted-string](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2857-total-distance-traveled](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2857-total-distance-traveled) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3625-stone-removal-game) |
 ## Divide and Conquer
