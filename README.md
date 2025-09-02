@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1642-water-bottles) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1833-find-the-highest-altitude](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0045-jump-game-ii) |
 | [1448-maximum-69-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1448-maximum-69-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2756-buy-two-chocolates](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1086-divisor-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Number Theory
 |  |
 | ------- |
