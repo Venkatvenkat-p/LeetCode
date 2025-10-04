@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0045-jump-game-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0344-reverse-string) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0045-jump-game-ii) |
 | [1448-maximum-69-number](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
