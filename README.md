@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3625-stone-removal-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
 | ------- |
