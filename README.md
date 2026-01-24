@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2756-buy-two-chocolates](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2857-total-distance-traveled](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2857-total-distance-traveled) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -278,12 +281,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Venkatvenkat-p/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2756-buy-two-chocolates](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Venkatvenkat-p/LeetCode/tree/master/0948-sort-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Venkatvenkat-p/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Venkatvenkat-p/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
